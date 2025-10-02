@@ -67,3 +67,10 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
   <img src="https://i.imgur.com/jpdP5dP.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 </p>
+<br />
+
+<strong> 4. Download and Install PHP manager from the osTicket-installation-Files </strong>
+<p>
+  - Install from the osTicket-installation-Files (PHPManagerForIIS_V1.5.0.msi)
+  <img src="https://i.imgur.com/wkNBoFU.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
