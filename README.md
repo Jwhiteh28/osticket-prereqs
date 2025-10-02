@@ -40,9 +40,10 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- Use the VM’s public IP address to establish a connection through Remote Desktop Protocol (RDP). Start > type mstsc click on remote desktop > paste public IP address and sign in with credentials.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DtLvxn1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <br />
