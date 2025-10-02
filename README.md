@@ -48,3 +48,9 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 </p>
 
 <br />
+
+<strong>2. Download the osTicket-installation-Files.zip</strong>
+<p>
+- Within your VM, download the file from https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and extract the contents to your desktop. These files will be used to install osTicket.
+  <img src="https://i.imgur.com/sLqGSgr.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
