@@ -40,11 +40,11 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <br />
 
 <p>
-- Use the VM’s public IP address to establish a connection through Remote Desktop Protocol (RDP). Start > type mstsc click on remote desktop > paste public IP address and sign in with credentials.
+- Use the VM’s public IP address to establish a connection through Remote Desktop Protocol (RDP). Start > type mstsc click on remote desktop > paste public IP address and log in with credentials you made when you created the VM (bluemachina in this example).
 </p>
 <p>
 <img src="https://i.imgur.com/DtLvxn1.png" width="600" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/zbARfme.png" width="600" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LSnti05.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
