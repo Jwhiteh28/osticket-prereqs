@@ -54,3 +54,16 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 - Within your VM, download the file from https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and extract the contents to your desktop. These files will be used to install osTicket.
   <img src="https://i.imgur.com/sLqGSgr.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
+
+<strong> 3. Enable ISS with CGI </strong>
+<p>
+- Open the Control Panel > navigate to Programs > Programs and Features > then select Turn Windows features on or off.
+   <img src="https://i.imgur.com/WZkgTI8.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+- <strong> Enable (internet information services) World Wide Web Services > Application Development Features > enable CGI </strong>
+<p>
+  <img src="https://i.imgur.com/jpdP5dP.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+</p>
