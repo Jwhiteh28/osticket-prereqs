@@ -34,7 +34,7 @@ In this tutorial, we cover the prerequisites and installation process for osTick
 In Microsoft Azure, I created a virtual machine named osTicket-vm, which is running Windows pro 10.
 </p>
 <p>
-<img src="https://i.imgur.com/nBoVDkW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nBoVDkW.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
@@ -43,7 +43,8 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 - Use the VM’s public IP address to establish a connection through Remote Desktop Protocol (RDP). Start > type mstsc click on remote desktop > paste public IP address and sign in with credentials.
 </p>
 <p>
-<img src="https://i.imgur.com/DtLvxn1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DtLvxn1.png" width="600" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zbARfme.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
