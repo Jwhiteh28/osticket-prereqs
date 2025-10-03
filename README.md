@@ -131,13 +131,11 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 - Open the PHP manager
 - Register new PHP version
 <p>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/cM6mFZd.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  - browse(...)
- - Go to your C drive
- - PHP folder
- - php.cgi
+  - browse(...) > Go to your C drive > PHP folder > php.cgi
+  <img src="https://i.imgur.com/0tXdSfb.png" width="600" alt="Disk Sanitization Steps"/>
 </p> 
 <br />
 
