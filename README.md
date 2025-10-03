@@ -159,7 +159,7 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 
   - Within "c: inetpub\wwwroot", Rename "upload" to "osTicket"
 
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/iRaAcrD.png" width="600" alt="Disk Sanitization Steps"/>
   <br />
 
 <strong> 14. Reload IIS (Open ISS, Stop and Start the server) </strong>
