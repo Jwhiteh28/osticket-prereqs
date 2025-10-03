@@ -145,3 +145,26 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
   <img src="https://i.imgur.com/dfQQkom.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<strong> 13. Download and install osTicket</strong>
+- From the osTicket-Installation-Files unzip the (osTicketv1.15.8)
+<p>
+  <img src="https://i.imgur.com/YG90QsC.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  - After extracting the folder, click on the folder and then copy the "upload" folder into "c: inetpub\wwwroot"
+    - open file explorer > C drive > inetpub > wwwroot
+</p>
+  <img src="https://i.imgur.com/TU2Jsj5.png" width="600" alt="Disk Sanitization Steps"/>
+
+  - Within "c: inetpub\wwwroot", Rename "upload" to "osTicket"
+
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <br />
+
+<strong> 14. Reload IIS (Open ISS, Stop and Start the server) </strong>
+- The restart button can be found on the right sider of the window
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
