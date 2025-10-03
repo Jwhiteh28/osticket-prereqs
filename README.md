@@ -81,4 +81,21 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
   - Install (rewrite_amd64_en-US.msi) from the osTicket-Installation-Files
   <img src="https://i.imgur.com/GDmo2tA.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
+<strong> 6. Create a directory in the C drive. Name the folder PHP. </strong>
+<p>
+  <img src="https://i.imgur.com/KqLeICV.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 7. From the osTicket-Installation-Files install (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP </strong>
+<p>
+  <img src="https://i.imgur.com/ia4JD6X.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+
+<strong> 8. Download and Install the (VC_redist.x86.exe) </strong>
+- Install from the osTicket-Installation-Files
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
