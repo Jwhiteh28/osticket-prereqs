@@ -93,9 +93,57 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <p>
   <img src="https://i.imgur.com/ia4JD6X.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
 <strong> 8. Download and Install the (VC_redist.x86.exe) </strong>
 - Install from the osTicket-Installation-Files
 <p>
+  <img src="https://i.imgur.com/XXx1V0d.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 9. Download and Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)</strong>
+- Install from the osTicket-Installation-Files
+- Select the following configurations:
+     - Typical setup
+     - launch configuration
+     - Standard configuration
+<p>
+  <img src="https://i.imgur.com/ImnzCOT.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+- <strong>  The user for this service is going to type (root) as the username and the password.</strong>
+
+<p>
+  <img src="https://i.imgur.com/9w5ButR.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 10. Launch IIS as administrator </strong>
+- Search for IIS in the windows search bar and right click it and select open as administrator
+<p>
+  <img src="https://i.imgur.com/VDqcIuc.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 11. Register PHP from within IIS </strong>
+- Open the PHP manager
+- Register new PHP version
+<p>
   <img src="" width="600" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+  - browse(...)
+ - Go to your C drive
+ - PHP folder
+ - php.cgi
+</p> 
+<br />
+
+<strong> 12. Reload IIS (Open ISS, Stop and Start the server) </strong>
+- The restart button can be found on the right sider of the window
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
