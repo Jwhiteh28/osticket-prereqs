@@ -142,6 +142,6 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <strong> 12. Reload IIS (Open ISS, Stop and Start the server) </strong>
 - The restart button can be found on the right sider of the window
 <p>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/dfQQkom.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
