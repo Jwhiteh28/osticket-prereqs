@@ -180,3 +180,20 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 </p>
 <img src="https://i.imgur.com/HluqtJz.png" width="600" alt="Disk Sanitization Steps"/>
 <br />
+
+<strong> 16. Enable extensions </strong>
+- open IIS > sites > Default > osTicket
+- Double-click PHP manager
+<p>
+  <img src="https://i.imgur.com/yDGZ20K.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  - Click "Enable or disable an extension"
+
+ - Enable: php_imap.dll
+ - Enable: php_intl.dll
+ - Enable: php_opache.dll
+</p>
+<img src="https://i.imgur.com/5qRzGLs.png" width="600" alt="Disk Sanitization Steps"/>
+<br />
+
