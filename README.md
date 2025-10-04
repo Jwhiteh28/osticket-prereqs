@@ -227,3 +227,43 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
    <img src="https://i.imgur.com/A8dSkh8.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<strong> 20. Continue osTicket installation</strong>
+- Continue the osTicket installer on your browser by filling the first half of the page
+<p>
+  <img src="https://i.imgur.com/JxKYD9S.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 21. Download and install Heidi SQL from the osTicket-Installation-Files </strong>
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+- Open Heidi SQL and create a new version a new session
+-Fill in username and password as (root)
+- Then click open
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 22. Create new database </strong>
+- On the left side of the window, right click on "Unnamed" and click create new database and name it "osTicket"
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 23. Finish signing in database settings </strong>
+- Then go back to your osTicket browser and fill up the missing credentials
+- Install Now
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 24. Finalize osTicket installation</strong>
+<p>
+  <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
