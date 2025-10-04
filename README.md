@@ -72,6 +72,8 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <strong> 4. Download and Install PHP manager from the osTicket-installation-Files </strong>
 <p>
   - Install from the osTicket-installation-Files (PHPManagerForIIS_V1.5.0.msi) PHP is basically a backend web server language and osTicket runs on PHP.
+</p>
+<p>
   <img src="https://i.imgur.com/wkNBoFU.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
