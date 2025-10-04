@@ -239,9 +239,7 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <p>
   <img src="https://i.imgur.com/INRtwOT.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
-- Open Heidi SQL and create a new version a new session
--Fill in username and password as (root)
-- Then click open
+- Open Heidi SQL and create a new version a new session > Fill in username and password as (root) > Then click open
 <p>
   <img src="https://i.imgur.com/s4TZXLh.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
