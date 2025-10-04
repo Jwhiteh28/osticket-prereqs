@@ -197,3 +197,33 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <img src="https://i.imgur.com/5qRzGLs.png" width="600" alt="Disk Sanitization Steps"/>
 <br />
 
+<strong> 17. Refresh osTicket </strong>
+- Refresh the osTicket site in your browser, some extensions will now appear active
+<p>
+  <img src="https://i.imgur.com/8BAJSmv.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 18. Change to ost-config.ph </strong>
+- Rename: ost-config.php
+- From: C:\inetpub|wwwrootlosTicket\includelost-sampleconfig.php
+-To: C. linetpubiwwwrootlos Ticketinclude lost-config.php
+- rename "ost-sampleconfig.ph" to "ost-config.ph"
+<p>
+  <img src="https://i.imgur.com/zABTjKT.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 19. Change ost-config.ph permissions </strong>
+- Change ost-config.php permissions by right clicking and selecting
+- Properties > Security > Advance > Disable inheritance
+- Disable inhertiance > Remove All
+<p>
+  <img src="https://i.imgur.com/Wvke8Jx.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+- New Permissions > Everyone > All
+-Go to add > select prinicpal > Everyone > Clcik full access > apply > OK
+<p>
+   <img src="" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
