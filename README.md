@@ -173,10 +173,10 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 - On the left hand side of IIS, Expand on the VM name > Sites > Default Website > osTicket
 - click on the browse *:80(http)
 <p>
-  <img src="" width="600" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/eG8T47L.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  - This will open osTicket in your web browser.
+  - Your web browser will open and display osTicket.
 </p>
-<img src="" width="600" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HluqtJz.png" width="600" alt="Disk Sanitization Steps"/>
 <br />
