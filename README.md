@@ -224,6 +224,6 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 - New Permissions > Everyone > All
 -Go to add > select prinicpal > Everyone > Clcik full access > apply > OK
 <p>
-   <img src="" width="600" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/A8dSkh8.png" width="600" alt="Disk Sanitization Steps"/>
 </p>
 <br />
