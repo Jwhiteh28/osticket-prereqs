@@ -165,6 +165,18 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 <strong> 14. Reload IIS (Open ISS, Stop and Start the server) </strong>
 - The restart button can be found on the right sider of the window
 <p>
+  <img src="https://i.imgur.com/bUKnGlQ.png" width="600" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<strong> 15. Launch osTicket </strong>
+- On the left hand side of IIS, Expand on the VM name > Sites > Default Website > osTicket
+- click on the browse *:80(http)
+<p>
   <img src="" width="600" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+  - This will open osTicket in your web browser.
+</p>
+<img src="" width="600" alt="Disk Sanitization Steps"/>
 <br />
