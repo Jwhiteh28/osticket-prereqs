@@ -137,6 +137,8 @@ In Microsoft Azure, I created a virtual machine named osTicket-vm, which is runn
 </p>
 <p>
   - browse(...) > Go to your C drive > PHP folder > php.cgi
+</p>
+<p>
   <img src="https://i.imgur.com/0tXdSfb.png" width="600" alt="Disk Sanitization Steps"/>
 </p> 
 <br />
