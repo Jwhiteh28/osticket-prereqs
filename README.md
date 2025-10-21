@@ -13,7 +13,7 @@ In this tutorial, we cover the prerequisites and installation process for osTick
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 pro</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -31,7 +31,7 @@ In this tutorial, we cover the prerequisites and installation process for osTick
 - <strong>Log into Azure Portal</strong>
 - <strong>Create a new VM with Windows Server.</strong>
 <p>
-In Microsoft Azure, I created a virtual machine named osTicket-vm, which is running Windows pro 10.
+In Microsoft Azure, I created a virtual machine named osTicket-vm, which is running Windows 10 pro.
 </p>
 <p>
 <img src="https://i.imgur.com/nBoVDkW.png" width="600" alt="Disk Sanitization Steps"/>
